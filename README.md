@@ -15,4 +15,4 @@
 **DESCRIPTION**: Create a online learning platform using HTML, CSS & Javascript.
 
 **OUTPUT OF TASK**:
-![Image](https://github.com/user-attachments/assets/73f277cd-e1b2-45d6-ade4-da789ec86b1f)
+![Image](https://github.com/user-attachments/assets/2fa607c5-f452-443d-8a7b-02558e25cc24)
